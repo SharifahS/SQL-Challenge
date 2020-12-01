@@ -1,2 +1,2 @@
 # SQL--Challenge
-<p> </p>
+<p> Table creation and queries using postgres SQL!</p>
